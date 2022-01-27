@@ -1,3 +1,0 @@
-/home/zzkmirok/test/cpptest/tanhaoqiang/chapter10/NaiveMatrixComputation/build/CMakeFiles/rebuild_cache.dir
-/home/zzkmirok/test/cpptest/tanhaoqiang/chapter10/NaiveMatrixComputation/build/CMakeFiles/edit_cache.dir
-/home/zzkmirok/test/cpptest/tanhaoqiang/chapter10/NaiveMatrixComputation/build/CMakeFiles/Matrix.dir
